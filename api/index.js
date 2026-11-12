@@ -5,8 +5,8 @@ const path = require('path');
 const https = require('https');
 const http = require('http');
 
-const REFERER = 'https://vidlink.pro/';
-const ORIGIN  = 'https://vidlink.pro';
+const REFERER = 'https://vidspark.to/';
+const ORIGIN  = 'https://vidspark.to';
 const UA      = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124';
 
 // ── WASM singleton (survives warm invocations) ────────────────────────────────
